@@ -1,0 +1,61 @@
+id,blind_ref,label_adjudicated,secondary_acceptable,both_acceptable,source,rule_id
+E01,HARD,Evidence,,,adjudicated,R-EV
+E02,Comparison,Comparison,,,agreed,
+E03,Further Reading,Further Reading,,,agreed,
+E04,Gap,Gap,,,agreed,
+E05,HARD,Background,Evidence,yes,adjudicated,R-EV
+E06,HARD,Improvement/Modification,,,adjudicated,R-IM
+E07,Further Reading,Further Reading,,,agreed,
+E08,HARD,Further Reading,,,adjudicated,R-FR
+E09,Background,Background,,,agreed,
+E10,HARD,Evidence,,,adjudicated,R-EV
+E11,Background,Background,,,agreed,
+E12,HARD,Further Reading,,,adjudicated,R-FR
+E13,Identification of the Originator,Identification of the Originator,,,agreed,
+E14,Evidence,Evidence,,,agreed,
+E15,Further Reading,Further Reading,,,agreed,
+E16,HARD,Improvement/Modification,Comparison,yes,adjudicated,"R-IM, R0"
+E17,HARD,Evidence,,,adjudicated,"R-EV, R-FR"
+E18,Background,Background,,,agreed,
+E19,Evidence,Application,,,"agreed, changed by recheck",R-IM
+E20,Improvement/Modification,Improvement/Modification,,,agreed,
+E21,Improvement/Modification,Improvement/Modification,,,agreed,
+E22,Improvement/Modification,Improvement/Modification,,,agreed,
+E23,Background,Background,,,agreed,
+E24,Improvement/Modification,Improvement/Modification,,,agreed,
+E25,Comparison,Comparison,,,agreed,
+E26,Evidence,Evidence,,,agreed,
+E27,Identification of the Originator,Identification of the Originator,,,agreed,
+E28,Identification of the Originator,Identification of the Originator,,,agreed,
+E29,Further Reading,Further Reading,,,agreed,
+E30,HARD,Further Reading,,,adjudicated,R-FR
+E31,HARD,Background,,,adjudicated,R-EV
+E32,HARD,Evidence,Background,yes,adjudicated,"R-EV, R0"
+E33,Background,Background,,,agreed,
+E34,Background,Background,,,agreed,
+E35,Further Reading,Further Reading,,,agreed,
+E36,Identification of the Originator,Identification of the Originator,,,agreed,
+E37,Further Reading,Further Reading,,,agreed,
+E38,Background,Background,,,agreed,
+E39,Application,Evidence,,,"agreed, changed by recheck",R-EV
+E40,Application,Application,,,agreed,
+E41,Background,Background,,,agreed,
+E42,HARD,Comparison,Further Reading,yes,adjudicated,"R-CMP, R-FR, R0"
+E43,HARD,Application,,,adjudicated,R-EV
+E44,Gap,Gap,,,agreed,
+E45,HARD,Background,,,adjudicated,R-CMP
+E46,Background,Background,,,agreed,
+E47,Identification of the Originator,Identification of the Originator,,,agreed,
+E48,HARD,Improvement/Modification,,,adjudicated,R-IM
+E49,Background,Background,,,agreed,
+E50,HARD,Gap,,,adjudicated,"R-GAP, R0"
+E51,Basis,Evidence,,,"agreed, changed by recheck","R-EV, R0"
+E52,HARD,Gap,,,adjudicated,"R-GAP, R0"
+E53,Improvement/Modification,Improvement/Modification,,,agreed,
+E54,Comparison,Comparison,,,agreed,
+E55,Background,Background,,,agreed,
+E56,HARD,Background,,,adjudicated,R-CMP
+E57,Improvement/Modification,Improvement/Modification,,,agreed,
+E58,Gap,Gap,,,agreed,
+E59,HARD,Further Reading,,,adjudicated,R-FR
+E60,Evidence,Evidence,,,agreed,
